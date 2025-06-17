@@ -1,4 +1,5 @@
 # Data-engineering
+```mermaid
 graph TD
     A[Start] --> B[Extract: Загрузка данных]
     B --> C[Transform: Предобработка данных]
